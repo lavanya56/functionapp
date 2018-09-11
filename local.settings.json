@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "be3c3654-fc30-4dd2-9198-5dd7c5d61f37",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=miltestfunctionaf9e;AccountKey=oz3gi/OlT9NHtpcfoE82B3t56LnRgw1o0eKPQ0QUgnK8h3Me7VepcZZnTJlNkpg/VlYEPtMByLY2I70HFtmd7A==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_SITE_NAME": "miltestfunctionappsample",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=miltestfunctionaf9e;AccountKey=oz3gi/OlT9NHtpcfoE82B3t56LnRgw1o0eKPQ0QUgnK8h3Me7VepcZZnTJlNkpg/VlYEPtMByLY2I70HFtmd7A=="
+  }
+}
